@@ -2,4 +2,6 @@ fastapi
 uvicorn
 paddleocr
 google-generativeai
-# additional dependencies can be added here
+pillow
+opencv-python
+# additional required packages can be added here
